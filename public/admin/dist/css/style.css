@@ -1,0 +1,15 @@
+.fa-edit{
+    color:blue;
+    padding-right: 6px;
+}
+.fa-edit:hover{
+    color:black;
+}
+.fa-trash{
+    color:blue;
+    padding-right: 6px;
+}
+
+.fa-trash:hover{
+    color:black;
+}
